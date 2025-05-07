@@ -1,0 +1,5 @@
+set(CMAKE_SYSTEM_NAME Windows)
+set(CMAKE_SYSTEM_VERSION 10.0.26100)
+set(CMAKE_C_COMPILER clang.exe)
+set(CMAKE_Swift_COMPILER swiftc.exe)
+set(CMAKE_SYSROOT "DEADBEEF")
